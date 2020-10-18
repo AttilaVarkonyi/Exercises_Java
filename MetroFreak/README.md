@@ -5,7 +5,7 @@ A Metro Freak célja, hogy a felhasználó a számítógépével kapcsolatos kü
 A Metro Freak a felhasználónak információt nyújt a használatban levő Wifi jelről.
 
 ### A GUI
-![screenshot](https://github.com/AttilaVarkonyi/Projects_Java/blob/master/MetroFreak/MetroFreakGui.jpg)
+![screenshot](./MetroFreakGui.jpg)
 
 A grafikus felület (GUI) három fő részből áll : 1) egy menüből 2) egy nézet interfészből, és 3) egy szöveges részből, ahol a mért paraméterekről olvashat részletes információt a felhasználó. A „Conncection” opció alatt a „Refresh” gomb megnyomásával tud a felhasználó új mérést végezni.
 
