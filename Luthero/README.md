@@ -3,6 +3,8 @@
 ### Mi a szoftver célja, és melyek a funkciói?
 A Luthero célja, hogy az evangélikus gyülekezetek lelkészei, presbiterei, és önkéntesei könyebben tudják menedzselni a gyülekezeti adatbázist...
 
+### Funkciók
+
 ### A GUI
 ![screenshot](./Luthero.jpg)
 
